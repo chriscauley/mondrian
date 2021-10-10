@@ -1,0 +1,12 @@
+{
+  "name": "css-art",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "sass": "^1.26.10"
+  }
+}
